@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: opsnull/helloworld:master-a000001
+        image: opsnull/helloworld:master-a000002
         args:
         - -msg=Ahoy5
         ports:
