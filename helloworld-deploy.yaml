@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: quay.io/weaveworks/helloworld:master-07a1b6b
+        image: opsnull/helloworld:master-a000001
         args:
         - -msg=Ahoy5
         ports:
